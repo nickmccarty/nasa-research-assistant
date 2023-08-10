@@ -13,3 +13,9 @@
 <a href="https://colab.research.google.com/drive/1lDXjpJzzxcLEtgHWAgmERK6Ntpnqce2u?usp=sharing#offline=true&sandboxMode=true">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 👈🏼 NTRS Web Scraper
+
+<br>
+
+<a href="https://colab.research.google.com/drive/1t2po6n7rRSBA1qhvV5o9q6HGB7xkND99?usp=sharing#offline=true&sandboxMode=true">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 👈🏼 NTRS Bulk Download
