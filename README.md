@@ -19,3 +19,9 @@
 <a href="https://colab.research.google.com/drive/1t2po6n7rRSBA1qhvV5o9q6HGB7xkND99?usp=sharing#offline=true&sandboxMode=true">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 👈🏼 NTRS Bulk Download
+
+<br>
+
+<a href="https://colab.research.google.com/drive/1Y5UW8m0BoJb0WgIfXewF3F4kSgStZIVq?usp=sharing#offline=true&sandboxMode=true">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 👈🏼 Kaggle arXiv Data Parser
