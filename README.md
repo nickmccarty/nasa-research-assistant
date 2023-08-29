@@ -1,8 +1,6 @@
 # NASA Research Assistant
 
-Welcome to our project wiki! 👋🥳
-
-> We're building an AI-based research assistant for NASA!
+Welcome to our project repo! 👋🥳
 
 As the repo name suggests, we are building a research assistant for NASA 🚀🤩 Specifically, we are asked to provide an AI-based research assistant solution that addresses one or more of the research tasks below:
 
