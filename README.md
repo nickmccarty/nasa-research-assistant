@@ -1,5 +1,22 @@
 # NASA Research Assistant
 
+Welcome to our project wiki! 👋🥳
+
+> We're building an AI-based research assistant for NASA!
+
+As the repo name suggests, we are building a research assistant for NASA 🚀🤩 Specifically, we are asked to provide an AI-based research assistant solution that addresses one or more of the research tasks below:
+
+1. Identifying seminal papers in a particular domain or domains
+2. Identifying state-of-the-art papers in a specified domain and relevant papers in related domains
+3. Summarizing research results across different publication formats and standards
+4. Identifying relevant search terminology in a particular domain (which may differ from the researcher’s field of expertise, even for equivalent concepts)
+5. Identifying test problems or benchmark datasets in a particular domain or domains
+6. Identifying research gaps and opportunities for new research in a particular domain or domains
+7. Identifying the leading experts and potential collaborators in a particular domain or domains
+8. Interactive compiling of a written report summarizing the research corpus in a particular domain or domains    
+
+[Source](https://www.drivendata.org/competitions/252/ai-research-assistants/page/779/)
+
 ## Key Links
 
 [Problem Definition](https://www.drivendata.org/competitions/252/ai-research-assistants/page/779/)
