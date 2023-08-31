@@ -23,6 +23,10 @@ As the repo name suggests, we are building a research assistant for NASA ðŸš€ðŸ¤
 
 [Project Wiki](https://github.com/nickmccarty/nasa-research-assistant/wiki/About)
 
+[![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://nickmccarty.github.io/nasa-research-assistant/)
+
+![](https://github.com/nickmccarty/nasa-research-assistant/blob/main/assets/images/prototype-screenshot.png?raw=true)
+
 ## Work Areas
 
 <a href="https://colab.research.google.com/drive/1vBhBIT0RadiGgRQlAhCGQMjJMC4wMsMG?usp=sharing#offline=true&sandboxMode=true">
