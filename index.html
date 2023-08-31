@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Prototype</title>
+
+        <!-- Bootstrap CSS CDN -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="./assets/css/styles.css">
+
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <div class="container">
+                    <a class="navbar-brand" href="/">
+                        <img src="./assets/images/nasa-logo.svg" alt="NASA Logo" class="logo-img">
+                        NASA Research Assistant Prototype
+                    </a>
+                    <!-- Add navigation links here if needed -->
+                </div>
+            </nav>
+            
+            <div class="container mt-5">
+                <h1 class="text-center">Welcome to the NASA Research Assistant!</h1>
+                <hr style="background-color: white;">
+                <br>
+                <!-- <p></p> -->
+                <!-- Add more content here -->
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <label for="exampleFormControlTextarea1" class="form-label" style="margin-left: 15px;">
+                        Enter text below to launch your research session 🚀
+                    </label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" style="margin-left: 15px;">Title, abstract, keywords, etc.</textarea>
+                    <button class="btn btn-primary" style="margin-top: 15px; margin-left: 15px;">Submit</button>
+                </div>
+                <div class="col-lg-6">
+                    <p style="margin-left: 15px;">Output from vector DB query will go here:</p>
+                </div>
+            </div>
+
+            <br>
+            <hr style="background-color: white;">
+            <br>
+
+            <div class="row" style = "margin-top: 15px;">
+                <div class="col-lg-6">
+                    <p style="margin-left: 15px;">Output from OpenAI API call will go here:</p>
+                </div>
+                <div class="col-lg-6">
+                    <p style="margin-left: 15px;">Viz of recommended authors will go here:</p>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-- Bootstrap JS and Popper.js CDN (optional) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    </body>
+</html>
