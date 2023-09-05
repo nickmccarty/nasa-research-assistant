@@ -2,7 +2,7 @@ let stars = [];
 
 function setup() {
   let canvas = createCanvas(windowWidth, 60);
-  canvas.position(0, document.querySelector('.navbar').offsetTop);
+  canvas.position(-6, document.querySelector('.navbar').offsetTop);
   frameRate(30);
 
   for (let i = 0; i < 1; i++) {
@@ -23,8 +23,8 @@ function createStar() {
   let x = random(width);
   let y = random(height);
   let size = random(1, 3);
-  let speedX = random(-2, -1);
-  let speedY = random(0.2, 0.1);
+  let speedX = random(-3, -1);
+  let speedY = random(0.2, 0.5);
   return new Star(x, y, size, speedX, speedY);
 }
 
