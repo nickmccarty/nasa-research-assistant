@@ -60,7 +60,7 @@ function renderResultsTable(results) {
   
   // Function to fetch JSON data from the server
   function fetchJsonData() {
-    fetch('/api/v1/title-recos.json')
+    fetch('./api/v1/title-recos.json')
       .then((response) => response.json())
       .then((data) => {
         if (data.results) {
