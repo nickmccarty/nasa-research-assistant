@@ -1,5 +1,5 @@
 // document.addEventListener('DOMContentLoaded', function () {
-//     const apiUrl = 'http://export.arxiv.org/api/query';
+//     const apiUrl = 'https://export.arxiv.org/api/query';
   
 //     const searchForm = document.getElementById('search-form');
 //     const keywordInput = document.getElementById('keyword');
@@ -102,7 +102,7 @@
 //   });
   
 document.addEventListener('DOMContentLoaded', function () {
-    const apiUrl = 'http://export.arxiv.org/api/query';
+    const apiUrl = 'https://export.arxiv.org/api/query';
   
     const queryTextElement = document.getElementById('query-text');
     const queryButton = document.getElementById('query-button');
