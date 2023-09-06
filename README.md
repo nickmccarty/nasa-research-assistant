@@ -23,6 +23,8 @@ As the repo name suggests, we are building a research assistant for NASA ðŸš€ðŸ¤
 
 [Competition Midpoint Submission Presentation](https://nickmccarty.me/competition-midpoint-submission-presentation/)
 
+[Competition Midpoint Submission Paper](https://github.com/nickmccarty/nasa-research-assistant/blob/main/competition-midpoint-submission-paper.pdf)
+
 [![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://nickmccarty.github.io/nasa-research-assistant/)
 
 ![](https://github.com/nickmccarty/nasa-research-assistant/blob/main/assets/images/prototype-screenshot.png?raw=true)
