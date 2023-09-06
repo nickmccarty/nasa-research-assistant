@@ -21,7 +21,7 @@ As the repo name suggests, we are building a research assistant for NASA ðŸš€ðŸ¤
 
 [NASA Langley Transformation Plan](https://ntrs.nasa.gov/api/citations/20230007724/downloads/NASA-TM-20230007724.pdf)
 
-[Project Wiki](https://github.com/nickmccarty/nasa-research-assistant/wiki/About)
+[Competition Midpoint Submission Presentation](https://nickmccarty.me/competition-midpoint-submission-presentation/)
 
 [![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://nickmccarty.github.io/nasa-research-assistant/)
 
