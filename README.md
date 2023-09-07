@@ -29,6 +29,8 @@ As the repo name suggests, we are building a research assistant for NASA 🚀�
 
 ![](https://github.com/nickmccarty/nasa-research-assistant/blob/main/assets/images/prototype.png?raw=true)
 
+> 📝: **If you want to start the Flask app**: Enter the command `python app.py` into the terminal; be sure to include your OpenAI API key where specified in the `openai.js` file
+
 ## Work Areas
 
 <a href="https://colab.research.google.com/drive/1vBhBIT0RadiGgRQlAhCGQMjJMC4wMsMG?usp=sharing#offline=true&sandboxMode=true">
